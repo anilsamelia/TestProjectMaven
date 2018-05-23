@@ -1,6 +1,6 @@
 package edu.paypal;
 /**
- * @author Samelia
+ * @author Anil Samelia
  */
 
 import java.io.Serializable;
